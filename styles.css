@@ -406,8 +406,10 @@ html {
     height: 60px;
     border: 1px solid var(--color-primary);
     border-radius: 50%;
+    
 }
 .footer__icon.fab{
+    text-align: center;
     line-height: 60px;
 }
 .footer__icon:hover{
