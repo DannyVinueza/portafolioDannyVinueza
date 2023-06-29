@@ -411,7 +411,7 @@ html {
     line-height: 60px;
 }
 .footer__icon:hover{
-    background: #000000e3;
+    background: #cfcfcfe3;
 	color: var(--secondary);
     transition: all 0.8s;
 }
